@@ -1,4 +1,4 @@
-Paper ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/PaperMC/Paper/Build%20Paper/master)
+JellyMC ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/NeyLePro/JellyMC/Build%20Paper/master)
 ===========
 
 High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
@@ -10,11 +10,11 @@ High performance Spigot fork that aims to fix gameplay and mechanics inconsisten
 
 How To (Server Admins)
 ------
-Paperclip is a jar file that you can download and run just like a normal jar file.
+JellyMc is a jar file that you can download and run just like a normal jar file.
 
-Download Paper from our [downloads page](https://papermc.io/downloads).
+Download JellyMc from our [downloads page](https://jellymc.neylepro.ml/downloads).
 
-Run the Paperclip jar directly from your server. Just like old times
+Run the JellyMc jar directly from your server. Just like old times
 
   * Documentation on using Paper: [paper.readthedocs.io](https://paper.readthedocs.io/)
   * For a sneak peak on upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
